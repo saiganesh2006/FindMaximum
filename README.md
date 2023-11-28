@@ -22,7 +22,7 @@ def max_marks(marks):
 ```
 
 ii)	# To find the maximum marks using the list method max().
-''' 
+```
 Program to find the maximum marks using the list method max().
 Developed by: D.B.V.SAI GANESH
 RegisterNumber: 23009248
@@ -32,7 +32,7 @@ def max_marks(marks):
     return a
 ```
 iii) # To find the maximum marks without using builtin functions.
-''' 
+```
 Program to the maximum marks without using builtin functions.
 Developed by: D.B.V.SAI GANESH
 RegisterNumber: 23009248
